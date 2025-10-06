@@ -18,11 +18,17 @@ Here's some words about the book _One Hundred Years..._.
 
 ### Tehtävä 3: Links
 [Search for it.](www.google.com)
+
 [You're **really, really** going to want to see this.](www.dailykitten.com)
+
 #### The Latest News from [the BBC](www.bbc.com/news)
+
 Do you want to [see something fun][a fun place]?
+
 Well, do I have [the website for you][another fun place]!
+
 [a fun place]: www.zombo.com
+
 [another fun place]: www.stumbleupon.com
 
 ### Tehtävä 4: Images
@@ -82,3 +88,4 @@ If you _do_ make a mess, use a towel to clean it up!
 2. Pour a gallon of milk into the bowl.  
 
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
